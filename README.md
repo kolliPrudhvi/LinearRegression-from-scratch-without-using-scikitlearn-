@@ -13,8 +13,13 @@
 bash
 Copy
 Edit
+
 ├── linear_regression.py     # Core logic for training and prediction
+
 ├── main.py                  # Script to run the model
+
 ├── data.csv                 # Sample dataset
+
 ├── requirements.txt         # Required libraries
+
 └── README.md                # Project overview
